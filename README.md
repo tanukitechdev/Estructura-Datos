@@ -1,2 +1,2 @@
-# Excel
-Este repositorio muestro mis proyectos finales hechos en excel. Se utilizan fórmulas, macros y formularios, así como también algunas tablas dinámicas.
+# Programación y estructura de datos
+Sistema para el control y registro de congresos de una institución académica. (Proyecto colaborativo)
